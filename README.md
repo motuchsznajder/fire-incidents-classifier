@@ -9,3 +9,4 @@ Our goal is to improve a classifier performance using feature engineering. We us
 - **Hydrants**: similar to the station data set, contains geographic information. Used to get the nearest hydrant from the incident site
 - **Ward profile**: used to get information on population density and number of building by type
 
+###### Presentation URL: https://www.beautiful.ai/-MqF3bH-TbfxnkOB8bMF/6
